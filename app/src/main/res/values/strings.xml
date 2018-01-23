@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Feedback</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Боковое меню-->
+    <string name="feedback_manager">Отзыв о работе</string>
+    <string name="worksheet_costumer">Анкета покупателя</string>
+    <string name="settings_menu">Настройки</string>
+    <!--Окно выбора отдела-->
+    <string name="sales_department">Отдел продаж</string>
+    <string name="service_department">Отдел сервиса</string>
+    <string name="repair_parts_department">Отдел ЗЧ и ДО</string>
+    <string name="financial_department">Финансовый отдел</string>
+    <string name="body_shop">Малярно-кузовной цех</string>
+    <string name="comment">Оставьте свой отзыв</string>
+    <!--Окно обратной связи-->
+    <string name="hint_description">Отзыв...</string>
+    <string name="btn_send_feedback">Отправить</string>
+    <string name="surname">Фамилия Имя Отчество</string>
+    <string name="name">Имя</string>
+    <string name="middle_name">Отчество</string>
+    <!--Окно настроек-->
+    <string name="addUser">Добавить сотрудника</string>
+    <string name="deleteUser">Удалить сотрудника</string>
+    <string name="addEmail">Добавить email рассылки</string>
+    <string name="deleteEmail">Удалить email рассылки</string>
+    <string name="addDealer">Добавить дилера</string>
+    <string name="deleteDealer">Удалить Дилера</string>
+
+    <string name="addPhoto">Фото</string>
+    <string name="save">Сохранить</string>
+
+    <string-array name="department">
+        <item>Отдел продаж</item>
+        <item>Отдел сервиса</item>
+        <item>Отдел ЗЧ и ДО</item>
+        <item>Финансовый отдел</item>
+        <item>Малярно-кузовной цех</item>
+    </string-array>
+</resources>
